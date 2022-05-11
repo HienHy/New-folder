@@ -14,13 +14,7 @@ $(document).ready(function () {
             });
         });
 
-    // $('.icon-menu .md.hydrated').click(function () {
-    //     alert(1);
-    // })
 
-    // document.querySelector('.icon-menu .md hydrated').addEventListener('click', () => {
-    //     alert(1)
-    // })
 
 
 
